@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "github.remotehub",
+        "firefox-devtools.vscode-firefox-debug",
+        "github.vscode-pull-request-github",
+        "github.codespaces",
+        "github.copilot-chat",
+        "github.vscode-github-actions",
+        "bierner.markdown-preview-github-styles",
+        "ms-vscode.vscode-github-issue-notebooks"
+    ]
+}
